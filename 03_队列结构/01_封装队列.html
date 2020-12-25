@@ -36,16 +36,17 @@
         Queue.prototype.size = function () {
             return this.items.length
         }
+        // 6. toString方法
+        Queue.prototype.toString = function () {
+            let resultString = ''
+            for (let i = 0; i < this.items.length; i++) {
+                resultString += this.items[i] + ' '
+            }
+            return resultString
+        }
     }
 
-    // 6. toString方法
-    Queue.prototype.toString = function () {
-        let resultString = ''
-        for (let i = 0; i < this.items.length; i++) {
-            resultString += this.items[i] + ' '
-        }
-        return resultString
-    }
+
 
     // 使用队列
     let queue = new Queue()
