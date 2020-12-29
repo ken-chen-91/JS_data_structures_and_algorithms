@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77dfc9cf-e5a9-46e6-a6ca-8fb37860eab8" name="默认的" comment="默认的">
-      <change afterPath="$PROJECT_DIR$/04_链表结构/02_双向链表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_集合结构/01_封装集合.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_队列结构/02_优先级队列.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_队列结构/02_优先级队列.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +42,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript 调试.02_双向链表.html">
+  <component name="RunManager" selected="JavaScript 调试.01_封装集合.html">
     <configuration name="01_封装队列.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/数据结构和算法/03_队列结构/01_封装队列.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="01_封装集合.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/数据结构和算法/05_集合结构/01_封装集合.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="01_单向链表.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/数据结构和算法/04_链表结构/01_单向链表.html" useBuiltInWebServerPort="true">
@@ -73,9 +75,11 @@
       <item itemvalue="JavaScript 调试.02_优先级队列.html" />
       <item itemvalue="Node.js.Algorithms.js" />
       <item itemvalue="JavaScript 调试.02_双向链表.html" />
+      <item itemvalue="JavaScript 调试.01_封装集合.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.01_封装集合.html" />
         <item itemvalue="JavaScript 调试.02_双向链表.html" />
         <item itemvalue="JavaScript 调试.01_封装队列.html" />
         <item itemvalue="Node.js.Algorithms.js" />
@@ -107,7 +111,7 @@
       <workItem from="1609100550701" duration="58000" />
       <workItem from="1609100621130" duration="1243000" />
       <workItem from="1609102825500" duration="15629000" />
-      <workItem from="1609188583931" duration="3093000" />
+      <workItem from="1609188583931" duration="13204000" />
     </task>
     <task id="LOCAL-00001" summary="封装队列">
       <created>1608799092020</created>
@@ -137,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609106639660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="完成双向链表的学习">
+      <created>1609192048450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609192048450</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +170,9 @@
     <MESSAGE value="封装队列" />
     <MESSAGE value="优先级队列" />
     <MESSAGE value="完成单向链表的封装" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成单向链表的封装" />
+    <MESSAGE value="完成双向链表的学习" />
+    <MESSAGE value="完成集合的学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成集合的学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
